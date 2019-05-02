@@ -1,0 +1,18 @@
+SMAP
+category_005fmanage_jsp.java
+JSP
+*S JSP
+*F
++ 0 category_manage.jsp
+admin/category_manage.jsp
+*L
+5,24:48
+29,3:73
+31,37:76
+68,3:114
+70,2:117
+72,5:119,3
+77,8:134
+85:142,3
+86,12:145
+*E

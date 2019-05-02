@@ -1,0 +1,12 @@
+SMAP
+update_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_product.jsp
+update_product.jsp
+*L
+1,29:45
+30,5:75
+34,90:80
+*E

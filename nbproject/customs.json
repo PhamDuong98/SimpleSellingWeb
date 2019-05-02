@@ -1,0 +1,19 @@
+{
+    "elements": {
+        "div": {
+            "attributes": {
+                "class": {}
+            }
+        },
+        "a": {
+            "attributes": {
+                "style": {},
+                "href": {},
+                "id": {},
+                "class": {},
+                "target": {}
+            }
+        }
+    },
+    "attributes": {}
+}
